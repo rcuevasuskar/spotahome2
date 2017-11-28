@@ -1,0 +1,26 @@
+{
+  "name": "spotahome2",
+  "version": "1.0.0",
+  "description": "Test for spotahome",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "webdriver-manager update",
+    "test": "protractor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcuevasuskar/spotahome2.git"
+  },
+  "author": "Ruben Cuevas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcuevasuskar/spotahome2/issues"
+  },
+  "homepage": "https://github.com/rcuevasuskar/spotahome2#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "js-yaml": "^3.10.0",
+    "protractor": "^5.2.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
