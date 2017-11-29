@@ -12,3 +12,4 @@ Item number: 3
  Url: https://www.thesofacompany.es/coleccion-hogar/#prettyPhoto[gallery1]/4/
  Domain: www.thesofacompany.es
  Title: COLECCIÓN HOGAR | The Sofa Company
+
